@@ -1,18 +1,20 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# DIO | trilha-java-basico
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Autores
 
-## Dependency Management
+- [@yuriclaro](https://www.github.com/YuriClaro)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
+## POO - Desafio
+
+Modelagem e Diagramação da representação UML do IPhone apresentado pelo Steve Jobs em 2007, abrangendo suas funcionalidades como Ligações de Chamada, Camera, Navegador de Internet, Maps, e Aplicativo de música.
+    
+
+![UML](src/images/desafio-poo-dio.jpg)
